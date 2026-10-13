@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Wrench
+# A Flat Wrench with a Ring End and an Open Fork End
 
 ## Summary
 
----
+A wrench is a hand tool that applies torque to turn nuts and bolts, and its shape decides which fasteners it can reach and how comfortably it can be used. This project explores how a double-ended wrench can be modeled computationally, from the head shapes to the handle.
 
-## Design Motivation
+The model is a flat wrench with two different ends. One end is a closed ring with a round opening, which surrounds a fastener fully. The other end is an open fork with two parallel jaws, which slips onto a fastener from the side. A long handle connects both ends and narrows between the ring and the fork, and a fine outline runs along its edge. The main challenge was to blend the wide ring head into the slim handle smoothly and to keep the jaws of the fork parallel so that they fit a fastener properly.
 
-| Name | Image |
-| :--: | :---: |
+The wrench was developed as a computational model in SolidWorks. The views below show the ring end, the handle, and the fork end from every side, along with a section view of the part. This prototype is a base concept design that can be developed further into a wrench sized for a standard fastener.
 
 ---
 
@@ -26,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
