@@ -33,7 +33,7 @@ The wrench was developed as a computational model in SolidWorks. The views below
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |      Name       |
 | :-: | :-------------: |
@@ -50,12 +50,12 @@ The wrench was developed as a computational model in SolidWorks. The views below
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
 | No  |                           Image                            |
 | :-: | :--------------------------------------------------------: |
-| 01  | ![Image of the Tool Used](images/wrench_tool_used_one.png) |
-| 02  | ![Image of the Tool Used](images/wrench_tool_used_two.png) |
+| 01  | ![Feature Tree Image One](images/wrench_feature_tree_one.png) |
+| 02  | ![Feature Tree Image Two](images/wrench_feature_tree_two.png) |
 
 ---
 
