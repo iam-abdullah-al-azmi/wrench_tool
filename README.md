@@ -35,22 +35,27 @@ The wrench was developed as a computational model in SolidWorks. The views below
 
 ## Tools Used
 
-| No  | Name |
-| :-: | :--: |
-| 01  |      |
-| 02  |      |
-| 03  |      |
-| 04  |      |
-| 05  |      |
-| 06  |      |
-| 07  |      |
-| 08  |      |
-| 09  |      |
-| 10  |      |
+| No  |      Name       |
+| :-: | :-------------: |
+| 01  | Surface Extrude |
+| 02  |     Fillet      |
+| 03  |  Surface Fill   |
+| 04  |  Surface Trim   |
+| 05  |   Split Line    |
+| 06  |  Surface Loft   |
+| 07  |  Boss Extrude   |
+| 08  |     Chamfer     |
+| 09  |     Mirror      |
+| 10  |  Surface Knit   |
 
 ---
 
 ## Image of the Tool Used
+
+| No  |                           Image                            |
+| :-: | :--------------------------------------------------------: |
+| 01  | ![Image of the Tool Used](images/wrench_tool_used_one.png) |
+| 02  | ![Image of the Tool Used](images/wrench_tool_used_two.png) |
 
 ---
 
