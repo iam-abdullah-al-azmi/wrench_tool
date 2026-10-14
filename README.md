@@ -87,3 +87,9 @@ The wrench should be dimensioned to a standard fastener size, and the jaw or box
 [^1]: [A guide to the different types of wrenches](https://ph.rs-online.com/web/content/discovery/ideas-and-advice/a-guide-to-the-different-types-of-wrenches)
 
 [^2]: [Adjustable Wrench Types & Uses](https://www.finepowertools.com/hand-tools/adjustable-wrench-types/)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
